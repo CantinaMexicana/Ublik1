@@ -1123,6 +1123,14 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/17837-mkw.png");
 }
+.cid-s2TVVBFb9j {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s2TVVBFb9j .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-s2OON7m2dI {
   background: #ffffff;
   padding-top: 60px;
@@ -1141,27 +1149,6 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s2OON7m2dI .image-block {
-    width: 100% !important;
-  }
-}
-.cid-s2OOZfmRd2 {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-s2OOZfmRd2 .image-block {
-  margin: auto;
-}
-.cid-s2OOZfmRd2 figcaption {
-  position: relative;
-}
-.cid-s2OOZfmRd2 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s2OOZfmRd2 .image-block {
     width: 100% !important;
   }
 }
@@ -1355,6 +1342,10 @@ section.lazy-placeholder:after {
 .cid-s2OVnMH4LT .cost {
   text-decoration: line-through;
   color: #767676;
+}
+.cid-s2OVnMH4LT .text1 {
+  color: #232323;
+  text-align: left;
 }
 .cid-s2OTYfucBZ {
   padding-top: 90px;
